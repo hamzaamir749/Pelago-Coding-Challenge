@@ -1,5 +1,9 @@
 # Pelago Android Challenge
 
+#Output
+
+https://github.com/user-attachments/assets/b6f9930e-90b7-4ef2-bf81-7a36f081209c
+
 This is a skeleton project for our Android coding challenge, based around the following tech stack:
 
 - Kotlin
